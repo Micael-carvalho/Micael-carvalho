@@ -1,6 +1,6 @@
 # Olá, eu sou o Micael! 
 
-🎓 **Bacharel em Sistemas de Informação** e atualmente cursando um **MBA em Gestão de Projetos**. Sou apaixonado por tecnologia e sempre busco aprender e aprimorar minhas habilidades no desenvolvimento de software.
+🎓 **Bacharel em Sistemas de Informação** e atualmente cursando um **MBA em Gestão de Projetos**. Sou apaixonado por tecnologia e sempre busco aprender e aprimorar minhas habilidades.
 
 ## 🚀 Habilidades e Tecnologias
 
