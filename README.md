@@ -7,7 +7,7 @@
 - C#  
 - Python  
 - JavaScript  
-- .NET MAUI  
+- .NET MAUI (Framework para aplicações multiplataforma)  
 
 ## 💼 Experiência e Formação
 
@@ -23,5 +23,4 @@
 ---
 
 Sempre aberto a novas oportunidades e desafios! 🚀
-
 
